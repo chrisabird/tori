@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://chrisabird.github.io/tori/"
 languageCode = "en-us"
 title = "トリ"
 theme = "hyde"
 
 [params]
-  description = " "
+  description = "Chris Bird"
   themeColor = "theme-base-0b"
