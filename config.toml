@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "トリ"
+theme = "hyde"
+
+[params]
+  description = " "
+  themeColor = "theme-base-0b"
