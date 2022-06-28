@@ -1,4 +1,4 @@
-baseURL = "https://christopherbird.co.uk"
+baseURL = "https://christopherbird.co.uk/"
 languageCode = "en-us"
 title = "トリ"
 theme = "hyde"
